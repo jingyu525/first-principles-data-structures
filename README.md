@@ -94,6 +94,9 @@ Kubernetes
 ### 第七部分：系统设计
 - [14 从数据结构看系统设计](docs/14-system-design/README.md)
 
+### 附录
+- [15 复杂度速查表](docs/15-complexity-cheatsheet/README.md)
+
 ---
 
 ## 代码
